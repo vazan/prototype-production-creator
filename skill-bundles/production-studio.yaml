@@ -1,0 +1,15 @@
+name: production-studio
+description: "Convert an approved functional prototype into production software incrementally with strict quality, security and release gates."
+skills:
+  - production-orchestrator
+  - production-auditor
+  - contract-guardian
+  - service-boundary-builder
+  - build-error-doctor
+  - regression-guardian
+  - security-reviewer
+  - e2e-production-tester
+  - release-readiness-reviewer
+  - visual-qa
+  - responsive-qa
+  - github-project-manager

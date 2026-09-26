@@ -1,0 +1,9 @@
+name: prototype-studio
+description: "Build a polished, fully functional prototype intentionally structured for later productionization."
+skills:
+  - prototype-orchestrator
+  - service-boundary-builder
+  - visual-qa
+  - responsive-qa
+  - regression-guardian
+  - github-project-manager
